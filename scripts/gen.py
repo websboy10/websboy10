@@ -58,9 +58,9 @@ CARD = [  # (key, value)
     ("Also", "Nordisk Software · Nordic Engine CRM"),
     ("Stack", "TypeScript · Next.js · Postgres/Supabase · C#"),
     ("Agents", "Claude Code · GSD · MCP · routines"),
-    ("Edge", "Cloudflare Workers · D1 · Vercel"),
-    ("Shipped", "sehit-studio · mix-madsen · future-gaming"),
-    ("Ask me", "loop engineering, agent workflows, web that stares back"),
+    ("Builds", "voice agents · CRMs · dialers · iOS apps"),
+    ("Method", "spec → plan → build → verify against the real system"),
+    ("Ask me", "loop engineering, agent workflows, MCP"),
 ]
 
 def card():
